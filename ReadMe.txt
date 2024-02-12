@@ -40,3 +40,5 @@
 # Note - 'metadata' defined in 'layout.js' file is also a reserved name
 
 # `layout.js` and `page.js` work together. Layout is the wrapper where as page is the actual content.
+
+# Note - If add an image called 'icon' in app folder then it will be used as a favicon by NextJS as we can seen in 'layout.js' file we did not set up anything regarding a favicon.
